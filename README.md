@@ -23,7 +23,6 @@ This project demonstrates backend development using Flask, server-side image gen
 * **Python 3**
 * **Flask** – Web framework
 * **qrcode** – QR code generation
-* **Pillow (PIL)** – Image processing
 * **HTML & CSS** – Frontend UI
 * **Gunicorn** – Production WSGI server (for deployment)
 
